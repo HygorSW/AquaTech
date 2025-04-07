@@ -1,7 +1,5 @@
 # aquatech-somente-html
 
-# AquaTech | Site Institucional
-
 ## Sobre o Projeto
 O **AquaTech** é um site institucional focado na conscientização e preservação ambiental. A plataforma apresenta informações sobre a missão, visão e valores da empresa, além de oferecer um simulador interativo para os usuários.
 
