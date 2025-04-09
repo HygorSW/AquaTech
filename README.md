@@ -31,6 +31,8 @@ Para visualizar o site, basta abrir o arquivo **index.html** em qualquer navegad
 
 ## Print do Site
 ![image](https://github.com/user-attachments/assets/72dc9265-f9eb-4116-afa7-3bf0c766a356)
+![image](https://github.com/user-attachments/assets/imgs/CadastroPrint.png)
+![image](https://github.com/user-attachments/assets/imgs/loginPrint.png)
 
 ## Créditos
 Desenvolvido com amor por **Aluno** ❤️ | SPTech | 2025.
